@@ -2,7 +2,7 @@
 
 Note: All Jupyter Notebooks for this project need to run using the R kernel.
 
-Instructions for running R kernel in an Anaconda environment
+#### Instructions for running R kernel in an Anaconda environment
 https://izoda.github.io/site/anaconda/r-jupyter-notebook/
 
 ### NYPD Complaint Dataset
@@ -17,4 +17,8 @@ https://youtu.be/2zteBmGwzfo
 #### Video presentation - Part 2
 https://youtu.be/vtFmNleL_xo
 
-Data Dictionary describing all the fields: NYPD_Complaint_Incident_Level_Data_Footnotes.pdf
+#### Data Dictionary describing all the fields:
+NYPD_Complaint_Incident_Level_Data_Footnotes.pdf
+
+#### Instructions for running R kernel in an Anaconda environment
+https://izoda.github.io/site/anaconda/r-jupyter-notebook/
