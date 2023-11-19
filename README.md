@@ -1,4 +1,15 @@
 # R-Statistical-Learning-NYPD-Complaint-2020-Dataset
 
-The above Jupyter Notebooks utilize R kernel.  By default most Jupyter Notebooks use the Python kernel.
-You will need to switch to the R kernel to avoid rendering issues.
+Note: All Jupyter Notebooks for this project need to run using the R kernel.
+
+Instructions for running R kernel in an Anaconda environment:
+https://izoda.github.io/site/anaconda/r-jupyter-notebook/
+
+## Video Presentation
+A two part video presentation summing up this project is available.
+
+Video presentation - Part 1
+https://youtu.be/2zteBmGwzfo
+
+Video presentation - Part 2
+https://youtu.be/vtFmNleL_xo
