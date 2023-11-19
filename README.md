@@ -3,6 +3,7 @@
 Note: All Jupyter Notebooks for this project need to run using the R kernel.
 
 Instructions for running R kernel in an Anaconda environment:
+
 https://izoda.github.io/site/anaconda/r-jupyter-notebook/
 
 ## Video Presentation
