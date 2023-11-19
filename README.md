@@ -1,8 +1,8 @@
-# R-Statistical-Learning-NYPD-Complaint-2020-Dataset
+# Applied Statistical Learning Methods Using R On the 2020 NYPD Crime Dataset
 
 Note: All Jupyter Notebooks for this project need to run using the R kernel.
 
-Instructions for running R kernel in an Anaconda environment:
+Instructions for running R kernel in an Anaconda environment
 
 https://izoda.github.io/site/anaconda/r-jupyter-notebook/
 
