@@ -3,7 +3,7 @@ Note: All Jupyter Notebooks for this project need to run using the R kernel.
 
 
 ### Presentation
-AndreyNorin_TermProject_Presentation.pdf
+[Presentation](AndreyNorin_TermProject_Presentation.pdf)
 
 ### Video Presentation
 A two part video presentation summing up this project is available.
@@ -18,7 +18,7 @@ https://youtu.be/vtFmNleL_xo
 https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 
 #### Data Dictionary describing all the fields:
-NYPD_Complaint_Incident_Level_Data_Footnotes.pdf
+[Data Dictionary](NYPD_Complaint_Incident_Level_Data_Footnotes.pdf)
 
 #### Instructions for running R kernel in an Anaconda environment
 https://izoda.github.io/site/anaconda/r-jupyter-notebook/
